@@ -1,0 +1,11 @@
+{
+    "require": {
+           "slim/slim": "2.*",
+	"php-activerecord/php-activerecord": "dev-master",
+	"illuminate/database": "*"
+    },
+    "autoload": {
+    	"files" : [ "app/config.php" ],
+    	"classmap": [ "app/models" ]
+    }
+}
