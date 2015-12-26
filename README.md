@@ -1,5 +1,5 @@
 # Belajar Slim Framewok #
-ini adalah project belajar membuat resfull mengunakan slim framework 2
+ini adalah project belajar membuat restfull mengunakan slim framework 2
 
 ## Build And Run ##
 untuk menjalankan projectnya:
