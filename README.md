@@ -2,15 +2,17 @@
 ini adalah project belajar membuat restfull mengunakan slim framework 2
 
 ## Build And Run ##
-untuk menjalankan projectnya:
 
-1. Siapkan database Mysql
+untuk menjalankan projectnya :
+
+1. Siapkan database MySQL
 
 	* Nama Database : kampus
 
 2. Jalankan Composer Install
 
 ## Konfigurasi ##
+
 * Koneksi database : edit file `app/config.php`
 
 ##Tools##
