@@ -8,8 +8,8 @@ untuk menjalankan projectnya:
 2. Jalankan Composer Install
 
 ## Konfigurasi ##
-*Koneksi database : edit file `app/config.php`
+* Koneksi database : edit file `app/config.php`
 
 ##Tools##
 
-*Composer
+* Composer
